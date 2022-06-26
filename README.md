@@ -8,3 +8,6 @@ Model, used MediaPipe to train
 ![Alt Text](Picture3.jpg)
 ![Alt Text](Picture4.png)
 ![Alt Text](Picture5.gif)
+
+
+[Link to project](https://drive.google.com/file/d/11hVH0hkhHVjIMl9L2sa0zzAVG6NyEtkx/view?usp=sharing)
